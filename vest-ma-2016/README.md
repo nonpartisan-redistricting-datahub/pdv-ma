@@ -1,4 +1,4 @@
-# vest-md-2016
+# vest-ma-2016
 
 Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2016-massachusetts-precinct-and-election-results/).
 
