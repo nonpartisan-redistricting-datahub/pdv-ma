@@ -8,12 +8,12 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## **Raw from source:**
 - File: VEST MA 16 data file
-  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/1DT4KX&version=66.0)
+  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=5007729&version=67.0)
   - AWS: `ma_2016.zip` (available upon request)
   - Accessed: 08/24/21
 
 - File: VEST MA 16 documentation file
-  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=4986638&version=66.0)
+  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=5007728&version=67.0)
   - AWS: `documentation.txt` (available upon request)
   - Accessed: 08/24/21
 
