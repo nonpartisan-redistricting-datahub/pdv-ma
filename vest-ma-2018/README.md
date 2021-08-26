@@ -8,14 +8,14 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## **Raw from source:**
 - File: VEST MA 18 data file
-  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/9BRA1J&version=44.0)
+  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=5007792&version=45.0)
   - AWS: `ma_2018.zip` (available upon request)
-  - Accessed: 08/24/21
+  - Accessed: 08/26/21
 
 - File: VEST MA 18 documentation file
-  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=4986642&version=44.0)
+  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=5007790&version=45.0)
   - AWS: `documentation.txt` (available upon request)
-  - Accessed: 08/24/21
+  - Accessed: 08/26/21
 
 - File: MA Precinct-Level Results
   - Online: [MA Secretary of the Commonwealth](https://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018)
