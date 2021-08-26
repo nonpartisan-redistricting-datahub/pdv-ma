@@ -10,12 +10,12 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: VEST MA 16 data file
   - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=5007729&version=67.0)
   - AWS: `ma_2016.zip` (available upon request)
-  - Accessed: 08/24/21
+  - Accessed: 08/26/21
 
 - File: VEST MA 16 documentation file
   - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=5007728&version=67.0)
   - AWS: `documentation.txt` (available upon request)
-  - Accessed: 08/24/21
+  - Accessed: 08/26/21
 
 - File: MA Precinct-Level Results
   - Online: [MA Secretary of the Commonwealth](https://electionstats.state.ma.us/elections/view/130243/)
